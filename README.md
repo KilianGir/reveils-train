@@ -18,7 +18,7 @@ Les alarmes de la montre en découlent par soustraction.
 
 ## Installation sur le téléphone
 
-Ouvre `https://<ton-username>.github.io/train-alarm-pwa` dans Safari (iOS)
+Ouvre `https://kiliangir.github.io/reveils-train/` dans Safari (iOS)
 ou Chrome (Android), puis **Ajouter à l'écran d'accueil**.
 
 L'app fonctionne ensuite hors-ligne.
